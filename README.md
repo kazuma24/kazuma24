@@ -1,4 +1,4 @@
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=kazuma24&left_color=gray&right_color=blue)
+# I like sushi.🍣
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kazuma24&theme=vue)
 
